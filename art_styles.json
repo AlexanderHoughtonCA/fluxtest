@@ -1,0 +1,17 @@
+
+[
+    {"styleId": 1, "name": "art deco", "prompt": "the art deco style of art by William Morris, art nouveau."},
+    {"styleId": 2, "name": "collage", "prompt": "paper collage style of Hannah Hoch, Kurt Schwitters, and Man Ray"},
+    {"styleId": 3, "name": "graffiti", "prompt": "style of graffiti street art, neo-expressionalism."},
+    {"styleId": 4, "name": "kstyleIdult", "prompt": "the kstyleIdult style of cute drawings done by a preschooler"},
+    {"styleId": 5, "name": "linocut", "prompt": "the linocut style of minimalistic stylised line work"},
+    {"styleId": 6, "name": "retro sepia", "prompt": "retro sepia style of Charles Willson Peale."},
+    {"styleId": 7, "name": "origami", "prompt": "origami style of Greg Rutkowski"},
+    {"styleId": 8, "name": "risograph", "prompt": "risograph / grain print effect style"},
+    {"styleId": 9, "name": "sculpted", "prompt": "sculpted, polygonal style"},
+    {"styleId": 10, "name": "vintage", "prompt": "the vintage American poster style of Roger Broders, Otto Baumberger, Percy Trompf, Gert Sellheim."}
+]
+
+
+
+

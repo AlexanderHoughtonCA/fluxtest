@@ -1,0 +1,25 @@
+{
+    "development": {
+      "dialect": "postgres",      
+      "username": "postgres",
+      "database": "fluxtest",
+      "pool": {
+        "max": 5,
+        "min": 0,
+        "acquire": 30000,
+        "idle": 10000
+      }
+    },
+    "production": {
+      "dialect": "postgres",
+      "username": "postgres",
+      "database": "fluxtest",
+      "pool": {
+        "max": 5,
+        "min": 0,
+        "acquire": 30000,
+        "idle": 10000
+      }
+    }
+  }
+  

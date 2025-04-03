@@ -1,0 +1,36 @@
+{
+  "name": "fluxtest",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@sequelize/postgres": "^7.0.0-alpha.46",
+    "assert": "^2.1.0",
+    "axios": "^1.8.4",
+    "base-64": "^0.1.0",
+    "bcryptjs": "^2.4.3",
+    "body-parser": "^2.2.0",
+    "cors": "^2.8.5",
+    "crypto": "^1.0.1",
+    "dotenv": "^16.4.7",
+    "express": "^5.1.0",
+    "fs": "^0.0.1-security",
+    "node-redis": "^0.1.7",
+    "path": "^0.12.7",
+    "pg": "^8.14.1",
+    "pg-hstore": "^2.3.4",
+    "redis": "^4.7.0",
+    "redis-cli": "^2.1.2",
+    "sanitize": "^2.1.2",
+    "sequelize": "^6.37.7",
+    "uuid": "^11.1.0"
+  },
+  "devDependencies": {
+    "sequelize-cli": "^6.6.2"
+  }
+}
